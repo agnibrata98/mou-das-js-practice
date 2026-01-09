@@ -82,8 +82,8 @@ let nums = [10,20,30,40,50];
 // }
 
 // for in loop
-// for (let mou in nums) {
-//     console.log(mou);
+// for (let index in nums) {
+//     console.log(index);
 // }
 
 let nums1 = [10,20,30,40,50];

@@ -66,4 +66,24 @@ let add = 2;
 let add1 = '3';
 
 const a1 = add1 / add;
-console.log(a1);
+// console.log(a1);
+
+
+
+
+
+
+
+
+
+
+
+
+// function greet(name){
+//     console.log("Hello " + name);
+// }
+
+// function processuser(callback){
+//     callback("mou");
+// }
+// processuser(greet);
